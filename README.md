@@ -1,12 +1,25 @@
 # Learning MCP
 
+run: 
+
+```
+uv run mcp install main.py 
+```
 
 
-()["open browser.png"]
 
+## **What I'm doing**
+# Learning MCP
 
+run:
 
-()["results.png"]
+```
+uv run mcp install main.py
+```
+
+![Open browser](<./open browser.png>)
+
+![Results](./results.png)
 
 ## **What I'm doing**
 - **Goal:** Capture a minimal, reproducible demonstration of the Model Context Protocol (MCP) example in this repo and show the before/after screenshots.
@@ -16,6 +29,3 @@
 ## **Notes**
 - **Filenames:** The images are in the repo root. If you rename or move them, update their paths in this README.
 - **Next steps:** If you want, I can replace the placeholders with real screenshots, add captions, or include a brief walkthrough that reproduces the steps to generate `results.png`.
-
-
-
